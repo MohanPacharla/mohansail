@@ -1,0 +1,25 @@
+.banner{
+	background-color:"gray";
+	color:white;
+	letter-specing:10pt;
+	font-family;Arial;
+	font-size:24pt;
+	font-weight:bold;
+}
+.menu{
+	background-color:#eee;
+	font-weight:bold;
+	
+}
+.colhead {
+	background-color:black;
+	color:white;
+}
+body{
+	font-size:12pt;
+	font-family:verdana;
+}
+h1{
+	color:red;
+	
+}
